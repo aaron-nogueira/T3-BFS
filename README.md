@@ -5,6 +5,13 @@
 * Aaron Nogueira
 * Arthur Soares
 * Davi de Paula
+---
+
+## Vídeo da Apresentação
+
+https://youtu.be/r0_DJOmtSmk 
+
+---
 
 ## Problema
 
@@ -135,13 +142,7 @@ A comprovação da submissão aceita encontra-se na pasta:
 evidencias/
 ```
 
----
 
-## Vídeo da Apresentação
-
-Adicionar aqui o link do vídeo gravado.
-
----
 
 ## Estrutura do Repositório
 
